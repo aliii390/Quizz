@@ -1,0 +1,15 @@
+{
+  "name": "quizz",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000Q\u0000u\u0000i\u0000z\u0000z\u0000\r\u0000 \u0000",
+  "main": "index.html",
+  "scripts": {
+  "build:css": "tailwindcss build -i ./css/input.css -o ./css/output.css --watch"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
